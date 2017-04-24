@@ -36,6 +36,7 @@ This README would normally document whatever steps are necessary to get your app
     * NPM 3^
     
     *etc. . .
+
 * Database configuration
 * How to run tests
 * Deployment instructions
