@@ -7,7 +7,7 @@ This README would normally document whatever steps are necessary to get your app
 * Quick summary
 
 	__This repository is intended to hold a client for a web app that act as an e-portfolio, as well as demonstrate the owners ability to organize and manage a
-	project using modern AGILE/SCRUM methodology with support from Atlassian through Bitbucket and JIRA__
+	project using modern AGILE/SCRUM methodology with support from Atlassian through Bitbucket and Trello via Zapier__
 
 
 
