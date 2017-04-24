@@ -30,6 +30,12 @@ This README would normally document whatever steps are necessary to get your app
 * Summary of set up
 * Configuration
 * Dependencies
+
+    * NodeJS 6.9^
+
+    * NPM 3^
+    
+    *etc. . .
 * Database configuration
 * How to run tests
 * Deployment instructions
