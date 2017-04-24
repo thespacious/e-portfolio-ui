@@ -9,16 +9,21 @@ This README would normally document whatever steps are necessary to get your app
 	__This repository is intended to hold a client for a web app that act as an e-portfolio, as well as demonstrate the owners ability to organize and manage a
 	project using modern AGILE/SCRUM methodology with support from Atlassian through Bitbucket and JIRA__
 
-        Technologies
 
-        Angular2
-         
-            AngularCLI
-
-            D3.js
 
 * Version
 	_1.0_
+
+### Technologies ###
+
+> Angular2         
+> > AngularCLI
+
+> > D3.js
+
+> > materialize-ng2
+
+> > etc. . . 
 
 ### How do I get set up? ###
 
