@@ -28,15 +28,14 @@ This README would normally document whatever steps are necessary to get your app
 ### How do I get set up? ###
 
 * Summary of set up
+     * pull project from repo and perform npm install
+     * npm install materialize-css
+     * ng-serve
 * Configuration
 * Dependencies
-
     * NodeJS 6.9^
-
-    * NPM 3^
-    
+    * NPM 3^   
     * etc. . .
-
 * Database configuration
 * How to run tests
 * Deployment instructions
